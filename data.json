@@ -1,0 +1,46 @@
+{
+  "basics":{
+    "name":"manisha",
+    "role":"mean-stack",
+    "mobile":"7097009179",
+    "email":"lakshmimanisha9999@gmail.com"
+  },
+  "career":{
+    "info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+  },
+  "education":[
+    {
+      "degree":"B-tech(computer science& engineering)",
+      "institute":"Vignan Nirula",
+      "data":["2016-20","70%"]
+    },
+    {
+      "degree":"inter(mpc)",
+      "institute":"sri chaitanya",
+      "data":["2014-16","75%"]
+    },
+    {
+      "degree":"S.S.C",
+      "institute":"kennedy high school",
+      "data":["2014","80%"]
+    }
+  ],
+  "skills":[
+    {
+    "title":"Programming Languages",
+    "content":["python","c","java","R","c++"]
+   },
+    {
+    "title":"Data Bases",
+    "content":["sql","Oracle","mysql"]
+   },
+   {
+   "title":"Web Technologies",
+   "content":["HTML","XML","javaScript","Css"]
+  },
+  {
+  "title":"Operating Systems",
+  "content":["Windows","Unix","Linex"]
+ }
+  ]
+}
